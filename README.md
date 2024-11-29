@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Dhabale</h1>
 <h3 align="center">🚀 Research and Data Analyst | Aspiring Data Scientist | Python Developer</h3>
 
-<p align="center">
-  <img src="https://github.com/Ayush-dhabale.png" alt="Ayush's photo" width="200" style="border-radius:50%;"/>
-</p>
-
 ---
 
 <div align="center">
