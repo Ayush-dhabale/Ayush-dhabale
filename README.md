@@ -45,7 +45,6 @@
 
 ### 📂 Featured Projects
 #### 🖐 Gesture Volume Control  
-<img src="https://github.com/Ayush-dhabale/Gesture-Volume-Control/blob/main/project-demo.jpg" alt="Gesture Volume Control Demo" width="400"/>
 - **Description:** A computer vision-based project enabling real-time volume control using hand gestures.  
 - **Highlights:** Exceptional accuracy with advanced ML algorithms.  
 - **Repo Link:** [Gesture Volume Control](https://github.com/Ayush-dhabale/Gesture-Volume-Control)
@@ -53,7 +52,6 @@
 ---
 
 #### 💎 Gemstone Price Prediction  
-<img src="https://github.com/Ayush-dhabale/FSDSRegression_Project/blob/main/project-demo.jpg" alt="Gemstone Price Prediction Demo" width="400"/>
 - **Description:** Leveraging regression models for reliable gemstone price forecasting.  
 - **Highlights:** Enhanced prediction accuracy with feature engineering.  
 - **Repo Link:** [Gemstone Price Prediction](https://github.com/Ayush-dhabale/FSDSRegression_Project)
