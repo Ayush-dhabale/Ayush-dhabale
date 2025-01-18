@@ -60,7 +60,7 @@
 ---
 
 ### 💼 Work Experience
-#### 📊 Research and Data Analyst | Goal10x (Oct 2024 – Jan 2025)  
+#### 📊 Research and Data Analyst Intern | Goal10x (Oct 2024 – Jan 2025)  
 - Conducted competitor and market analysis to identify opportunities.  
 - Formulated Go-To-Market strategies, driving business growth.  
 - Enhanced revenue streams through strategic planning.
