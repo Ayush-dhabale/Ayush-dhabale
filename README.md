@@ -23,6 +23,7 @@
 ---
 
 ### 🌟 About Me
+- **Data Science Intern At SymphonyAI**
 - 🎓 **B.Tech in Computer Science & Engineering**  
   Graduated with **8.53/10 CGPA** from Samrat Ashok Technological Institute, Vidisha.  
 - 🏆 **Achievements:**
