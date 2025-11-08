@@ -75,10 +75,11 @@
 ---
 
 ### 💼 Work Experience
-#### 📊 Research and Data Analyst Intern | Goal10x (Oct 2024 – Present)  
-- Conducted competitor and market analysis to identify opportunities.  
-- Formulated Go-To-Market strategies, driving business growth.  
-- Enhanced revenue streams through strategic planning.
+#### 💡 Data Science Intern | SymphonyAI (May 2025 – Present)  
+- Developed and deployed a **Streamlit-based automation app** on **Azure Web App** for promotion forecast accuracy analysis, improving operational efficiency by **60%**.  
+- Integrated **Selenium automation** for deal template generation, data uploads, and real-time forecast monitoring, eliminating manual intervention.  
+- Engineered a **data pipeline** connecting **SQL Server** and **Yellowbrick** to generate KPI summaries and compare forecast methodologies (**old vs new**).  
+- Leveraged **GenAI** for automated insight generation and built a **debugging dashboard** to analyze forecast discrepancies, reducing analysis time by **70%**.  
 
 #### 🐍 Machine Learning Intern | iNeuron (June 2023 – Aug 2023)  
 - Developed a **Sign Language Detection Model** to convert signs into text.  
