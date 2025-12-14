@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ayush Dhabale</h1>
-<h3 align="center">🚀 Research & Data Analyst | Aspiring Data Scientist | Python Developer</h3>
+<h3 align="center">🚀 Data Scientist</h3>
 
 ---
 
@@ -23,7 +23,7 @@
 ---
 
 ### 🌟 About Me
-- **Data Science Intern At SymphonyAI**
+- **Data Scientist At SymphonyAI**
 - 🎓 **B.Tech in Computer Science & Engineering**  
   Graduated with **8.53/10 CGPA** from Samrat Ashok Technological Institute, Vidisha.  
 - 🏆 **Achievements:**
@@ -76,7 +76,7 @@
 ---
 
 ### 💼 Work Experience
-#### 💡 Data Science Intern | SymphonyAI (May 2025 – Present)  
+#### 💡 Associate Data Scientist | SymphonyAI (May 2025 – Present)  
 - Developed and deployed a **Streamlit-based automation app** on **Azure Web App** for promotion forecast accuracy analysis, improving operational efficiency by **60%**.  
 - Integrated **Selenium automation** for deal template generation, data uploads, and real-time forecast monitoring, eliminating manual intervention.  
 - Engineered a **data pipeline** connecting **SQL Server** and **Yellowbrick** to generate KPI summaries and compare forecast methodologies (**old vs new**).  
